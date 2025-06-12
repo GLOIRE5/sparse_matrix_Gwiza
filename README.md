@@ -1,6 +1,6 @@
 This project implements memory-efficient and performant operations (Addition, Subtraction, and Multiplication) on large sparse matrices using JavaScript—without relying on built-in libraries. It's designed as part of a Data Structures and Algorithms coursework assignment.
 
-📁 Project Structure
+Project Structure
 
 /dsa/sparse\_matrix/
 ├── code/
